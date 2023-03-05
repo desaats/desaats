@@ -39,6 +39,10 @@
 
 <div/>
 
+<div align= "center">
+  <br><p align= "centre"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" scr="https://profile-counter.glitch.me/{desaats}/count.svg" /></p>
+  <br></div>
 
 
 
