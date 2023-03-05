@@ -39,7 +39,10 @@
 
 <div/>
 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/desaats/count.svg" /></p>
 
-![snake gif](https://github.com/desaats/desaats/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
