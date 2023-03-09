@@ -1,7 +1,7 @@
 ### OLÁ, Meu meu nome é Alan Torres de Sá.
 
 - 🔭 Atualmente trabalho na Força Aérea Brasileira.
-- 🌱 Faço Sistema de informação na PUC. 
+- 🌱 Faço Sistemas de Informação na PUC Minas. 
 - 📚 Estudando C#, Java, JavaScript e Typescript.
 -->
 
