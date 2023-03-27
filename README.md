@@ -37,7 +37,7 @@
 <img align= "centeer" alt="Alan-html" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 <img align= "centeer" alt="Alan-html" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-![Snake animation](https://github.com/Luana-Almeid/Luana-Almeid/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/desaats/desaats/blob/output/github-contribution-grid-snake.svg)
 
 <div/>
 
