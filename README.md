@@ -43,5 +43,3 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/desaats/count.svg" /></p>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=desaats&bg_color=160c1d&color=6c7384&line=5280bc&point=422e2e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
