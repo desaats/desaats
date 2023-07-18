@@ -36,10 +36,11 @@
 <img align= "centeer" alt="Alan-html" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
 <img align= "centeer" alt="Alan-html" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 <img align= "centeer" alt="Alan-html" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+
 ![snake gif](https://github.com/desaats/desaats/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/desaats/count.svg" /></p>
 <div/>
 
 
-
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/desaats/count.svg" /></p>
