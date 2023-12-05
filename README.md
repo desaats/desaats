@@ -1,8 +1,8 @@
 ### OLÁ, Meu meu nome é Alan Torres de Sá.
 
-- 🔭 Atualmente trabalho na Força Aérea Brasileira.
+- 🔭 Atualmente como desenvolvedor C#.
 - 🌱 Faço Sistemas de Informação na PUC Minas. 
-- 📚 Estudando C#, Java, JavaScript e Typescript.
+- 📚 Estudando C#, APS.NET Core JavaScript.
 -->
 
 <div>
@@ -38,9 +38,8 @@
 <img align= "centeer" alt="Alan-html" height= "30" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 
-![snake gif](https://github.com/desaats/desaats/blob/output/github-contribution-grid-snake.svg)
+
 
 <div/>
 
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/desaats/count.svg" /></p>
