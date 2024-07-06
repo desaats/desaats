@@ -1,8 +1,9 @@
 ### OLÁ, Meu meu nome é Alan Torres de Sá.
 
-- 🔭 Atualmente trabalho como desenvolvedor C#.
+- 🔭 Atualmente trabalho como Técnico de Monitoramento.
 - 🌱 Faço Sistemas de Informação na PUC Minas. 
 - 📚 Estudando C#, APS.NET Core JavaScript.
+- Sonho em me tornar um desenvolvedor.
 -->
 
 <div>
